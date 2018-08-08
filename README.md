@@ -18,7 +18,7 @@ The proyect have a one main.cpp who is a one class independent of the only objec
 
 ## Built With
 
-* [Qt Creator]("http://doc.qt.io/qt-5/osx.html") - The link from download and install.
+* [Qt Creator]"http://doc.qt.io/qt-5/osx.html" - The link from download and install.
 
 ## Authors
 
